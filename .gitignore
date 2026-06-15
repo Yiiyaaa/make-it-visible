@@ -1,0 +1,10 @@
+# Local tooling / preview config (contains machine-specific paths)
+.claude/
+
+# Old version backups kept locally, not part of the project
+archive/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
