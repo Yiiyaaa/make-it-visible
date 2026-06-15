@@ -1,5 +1,7 @@
 # Make it visible
 
+**▶ Live demo — https://yiiyaaa.github.io/make-it-visible/**
+
 A dreamy vision-board & wallpaper studio — collage your photos, lay down affirmations, and export a high-res image. Pure front-end, no build step.
 
 愿景板工作室:拼贴照片、写下心愿文案、一键导出高清壁纸。纯前端,无需构建。
